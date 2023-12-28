@@ -228,21 +228,21 @@
 
 .profile .overlap-group {
     position: relative;
-    width: 399px;
-    height: 129px;
+    width: 369px;
+    height: 83px;
     background-color: #ffab49;
     border-radius: 50px;
 }
 
 .profile .text-wrapper-16 {
-    width: 124px;
-    top: 44px;
-    left: 138px;
+    position: absolute;
+    width: 82px;
+    top: 28px;
+    left: 144px;
     font-family: "Roboto-Medium", Helvetica;
     font-weight: 500;
     color: #ffffff;
-    font-size: 40px;
-    position: absolute;
+    font-size: 24px;
     letter-spacing: 0;
     line-height: normal;
     white-space: nowrap;
@@ -257,14 +257,14 @@
 }
 
 .profile .text-wrapper-17 {
-    width: 352px;
-    top: 44px;
-    left: 24px;
+    position: absolute;
+    width: 220px;
+    top: 28px;
+    left: 75px;
     font-family: "Roboto-Medium", Helvetica;
     font-weight: 500;
     color: #ffffff;
-    font-size: 40px;
-    position: absolute;
+    font-size: 24px;
     letter-spacing: 0;
     line-height: normal;
     white-space: nowrap;

@@ -240,21 +240,21 @@
 
 .history .overlap {
     position: relative;
-    width: 526px;
-    height: 129px;
+    width: 369px;
+    height: 83px;
     background-color: #ffab49;
     border-radius: 50px;
 }
 
 .history .text-wrapper-15 {
-    width: 419px;
-    top: 44px;
-    left: 53px;
+    position: absolute;
+    width: 249px;
+    top: 29px;
+    left: 60px;
     font-family: "Roboto-Medium", Helvetica;
     font-weight: 500;
     color: #ffffff;
-    font-size: 40px;
-    position: absolute;
+    font-size: 24px;
     letter-spacing: 0;
     line-height: normal;
     white-space: nowrap;

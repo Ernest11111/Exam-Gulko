@@ -264,20 +264,20 @@
 
 .register .overlap-group {
     position: relative;
-    width: 457px;
-    height: 148px;
+    width: 369px;
+    height: 83px;
     background-color: #ffab49;
     border-radius: 50px;
 }
 
 .register .text-wrapper-11 {
-    top: 53px;
-    left: 53px;
+    position: absolute;
+    top: 28px;
+    left: 68px;
     font-family: "Roboto-Medium", Helvetica;
     font-weight: 500;
     color: #ffffff;
-    font-size: 36px;
-    position: absolute;
+    font-size: 24px;
     letter-spacing: 0;
     line-height: normal;
     white-space: nowrap;
