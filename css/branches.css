@@ -1,0 +1,327 @@
+.branches {
+    background-color: #ffee88;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+.branches .div {
+    background-color: #ffee88;
+    overflow: hidden;
+    width: 2048px;
+    height: 1708px;
+    position: relative;
+}
+
+.branches .tomsk {
+    position: absolute;
+    width: 465px;
+    height: 341px;
+    top: 446px;
+    left: 100px;
+    object-fit: cover;
+}
+
+.branches .piter {
+    position: absolute;
+    width: 760px;
+    height: 407px;
+    top: 959px;
+    left: 150px;
+    object-fit: cover;
+}
+
+.branches .moskow {
+    position: absolute;
+    width: 886px;
+    height: 407px;
+    top: 959px;
+    left: 1012px;
+    object-fit: cover;
+}
+
+.branches .text-wrapper {
+    top: 203px;
+    left: 806px;
+    font-family: "Roboto-Medium", Helvetica;
+    font-weight: 500;
+    color: #000000;
+    font-size: 60px;
+    position: absolute;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.branches .novos {
+    position: absolute;
+    width: 591px;
+    height: 341px;
+    top: 446px;
+    left: 656px;
+    object-fit: cover;
+}
+
+.branches .kras {
+    position: absolute;
+    width: 610px;
+    height: 341px;
+    top: 446px;
+    left: 1338px;
+    object-fit: cover;
+}
+
+.branches .text-wrapper-2 {
+    top: 390px;
+    left: 100px;
+    font-family: "Roboto-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 40px;
+    position: absolute;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.branches .text-wrapper-3 {
+    top: 390px;
+    left: 656px;
+    font-family: "Roboto-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 40px;
+    position: absolute;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.branches .text-wrapper-4 {
+    top: 390px;
+    left: 1338px;
+    font-family: "Roboto-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 40px;
+    position: absolute;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.branches .text-wrapper-5 {
+    top: 903px;
+    left: 150px;
+    font-family: "Roboto-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 40px;
+    position: absolute;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.branches .text-wrapper-6 {
+    top: 903px;
+    left: 1012px;
+    font-family: "Roboto-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 40px;
+    position: absolute;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.branches .header {
+    position: absolute;
+    width: 2054px;
+    height: 199px;
+    top: -44px;
+    left: 0;
+    background-color: transparent;
+}
+
+.branches .overlap-group {
+    height: 155px;
+    top: 44px;
+    background-color: #ffffff;
+    position: relative;
+    width: 2048px;
+}
+
+.branches .gulko-logotip {
+    position: absolute;
+    width: 199px;
+    height: 153px;
+    top: 2px;
+    left: 8px;
+}
+
+.branches .text-wrapper-7 {
+    top: 54px;
+    left: 537px;
+    font-family: "Roboto-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 40px;
+    position: absolute;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.branches .text-wrapper-8 {
+    top: 54px;
+    left: 929px;
+    font-family: "Roboto-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 40px;
+    position: absolute;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.branches .text-wrapper-9 {
+    top: 54px;
+    left: 1478px;
+    font-family: "Roboto-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 40px;
+    position: absolute;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.branches .footer {
+    position: absolute;
+    width: 2064px;
+    height: 239px;
+    top: 1469px;
+    left: 0;
+    background-color: transparent;
+}
+
+.branches .overlap {
+    height: 239px;
+    background-color: #000000;
+    position: relative;
+    width: 2048px;
+}
+
+.branches .text-wrapper-10 {
+    position: absolute;
+    top: 96px;
+    left: 175px;
+    font-family: "Roboto-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 40px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.branches .text-wrapper-11 {
+    top: 32px;
+    left: 1206px;
+    font-family: "Roboto-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 32px;
+    position: absolute;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.branches .text-wrapper-12 {
+    top: 101px;
+    left: 1206px;
+    font-family: "Roboto-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 32px;
+    position: absolute;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.branches .text-wrapper-13 {
+    top: 169px;
+    left: 1206px;
+    font-family: "Roboto-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 32px;
+    position: absolute;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.branches .text-wrapper-14 {
+    top: 32px;
+    left: 1432px;
+    font-family: "Roboto-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 32px;
+    position: absolute;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.branches .text-wrapper-15 {
+    top: 101px;
+    left: 1447px;
+    font-family: "Roboto-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 32px;
+    position: absolute;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.branches .text-wrapper-16 {
+    top: 32px;
+    left: 1723px;
+    font-family: "Roboto-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 32px;
+    position: absolute;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.branches .text-wrapper-17 {
+    top: 101px;
+    left: 1723px;
+    font-family: "Roboto-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 32px;
+    position: absolute;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}

@@ -1,0 +1,460 @@
+.profile {
+    background-color: #ffee88;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+.profile .div {
+    background-color: #ffee88;
+    overflow: hidden;
+    width: 2048px;
+    height: 1943px;
+    position: relative;
+}
+
+.profile .text-wrapper {
+    top: 254px;
+    left: 788px;
+    font-family: "Roboto-Medium", Helvetica;
+    font-weight: 500;
+    color: #000000;
+    font-size: 60px;
+    position: absolute;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.profile .text-wrapper-2 {
+    top: 395px;
+    left: 107px;
+    font-family: "Roboto-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 48px;
+    position: absolute;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.profile .text-wrapper-3 {
+    top: 806px;
+    left: 108px;
+    font-family: "Roboto-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 48px;
+    position: absolute;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.profile .text-wrapper-4 {
+    top: 501px;
+    left: 108px;
+    font-family: "Roboto-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 36px;
+    position: absolute;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.profile .text-wrapper-5 {
+    top: 585px;
+    left: 108px;
+    font-family: "Roboto-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 36px;
+    position: absolute;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.profile .text-wrapper-6 {
+    top: 669px;
+    left: 108px;
+    font-family: "Roboto-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 36px;
+    position: absolute;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.profile .text-wrapper-7 {
+    position: absolute;
+    top: 912px;
+    left: 615px;
+    font-family: "Roboto-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 36px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.profile .text-wrapper-8 {
+    top: 912px;
+    left: 858px;
+    font-family: "Roboto-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 36px;
+    position: absolute;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.profile .text-wrapper-9 {
+    top: 912px;
+    left: 1178px;
+    font-family: "Roboto-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 36px;
+    position: absolute;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.profile .text-wrapper-10 {
+    top: 1027px;
+    left: 615px;
+    font-family: "Roboto-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 36px;
+    position: absolute;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.profile .text-wrapper-11 {
+    top: 1265px;
+    left: 615px;
+    font-family: "Roboto-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 36px;
+    position: absolute;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.profile .text-wrapper-12 {
+    top: 1265px;
+    left: 1352px;
+    font-family: "Roboto-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 36px;
+    position: absolute;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.profile .text-wrapper-13 {
+    top: 912px;
+    left: 1602px;
+    font-family: "Roboto-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 36px;
+    position: absolute;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.profile .text-wrapper-14 {
+    top: 543px;
+    left: 933px;
+    font-family: "Roboto-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 36px;
+    position: absolute;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.profile .text-wrapper-15 {
+    top: 627px;
+    left: 933px;
+    font-family: "Roboto-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 36px;
+    position: absolute;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.profile .related-wallpapers {
+    position: absolute;
+    width: 448px;
+    height: 459px;
+    top: 913px;
+    left: 108px;
+    object-fit: cover;
+}
+
+.profile .view {
+    left: 1226px;
+    position: absolute;
+    width: 401px;
+    height: 129px;
+    top: 1475px;
+}
+
+.profile .overlap-group {
+    position: relative;
+    width: 399px;
+    height: 129px;
+    background-color: #ffab49;
+    border-radius: 50px;
+}
+
+.profile .text-wrapper-16 {
+    width: 124px;
+    top: 44px;
+    left: 138px;
+    font-family: "Roboto-Medium", Helvetica;
+    font-weight: 500;
+    color: #ffffff;
+    font-size: 40px;
+    position: absolute;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.profile .overlap-wrapper {
+    left: 438px;
+    position: absolute;
+    width: 401px;
+    height: 129px;
+    top: 1475px;
+}
+
+.profile .text-wrapper-17 {
+    width: 352px;
+    top: 44px;
+    left: 24px;
+    font-family: "Roboto-Medium", Helvetica;
+    font-weight: 500;
+    color: #ffffff;
+    font-size: 40px;
+    position: absolute;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.profile .footer {
+    position: absolute;
+    width: 2064px;
+    height: 239px;
+    top: 1704px;
+    left: 0;
+    background-color: transparent;
+}
+
+.profile .overlap {
+    position: relative;
+    width: 2048px;
+    height: 239px;
+    background-color: #000000;
+}
+
+.profile .text-wrapper-18 {
+    position: absolute;
+    top: 96px;
+    left: 175px;
+    font-family: "Roboto-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 40px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.profile .text-wrapper-19 {
+    top: 32px;
+    left: 1206px;
+    font-family: "Roboto-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 32px;
+    position: absolute;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.profile .text-wrapper-20 {
+    top: 101px;
+    left: 1206px;
+    font-family: "Roboto-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 32px;
+    position: absolute;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.profile .text-wrapper-21 {
+    top: 169px;
+    left: 1206px;
+    font-family: "Roboto-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 32px;
+    position: absolute;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.profile .text-wrapper-22 {
+    top: 32px;
+    left: 1432px;
+    font-family: "Roboto-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 32px;
+    position: absolute;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.profile .text-wrapper-23 {
+    top: 101px;
+    left: 1447px;
+    font-family: "Roboto-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 32px;
+    position: absolute;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.profile .text-wrapper-24 {
+    top: 32px;
+    left: 1723px;
+    font-family: "Roboto-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 32px;
+    position: absolute;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.profile .text-wrapper-25 {
+    top: 101px;
+    left: 1723px;
+    font-family: "Roboto-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 32px;
+    position: absolute;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.profile .header {
+    position: absolute;
+    width: 2054px;
+    height: 199px;
+    top: -45px;
+    left: 0;
+    background-color: transparent;
+}
+
+.profile .overlap-2 {
+    position: relative;
+    width: 2048px;
+    height: 155px;
+    top: 44px;
+    background-color: #ffffff;
+}
+
+.profile .gulko-logotip {
+    position: absolute;
+    width: 199px;
+    height: 154px;
+    top: 1px;
+    left: 8px;
+}
+
+.profile .text-wrapper-26 {
+    top: 54px;
+    left: 537px;
+    font-family: "Roboto-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 40px;
+    position: absolute;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.profile .text-wrapper-27 {
+    top: 54px;
+    left: 929px;
+    font-family: "Roboto-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 40px;
+    position: absolute;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.profile .text-wrapper-28 {
+    top: 54px;
+    left: 1478px;
+    font-family: "Roboto-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 40px;
+    position: absolute;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
